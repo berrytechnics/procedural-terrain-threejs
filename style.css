@@ -1,0 +1,10 @@
+body{
+    margin:0;
+    background-color: black;
+    overflow: hidden;
+}
+#c{
+    position:absolute;
+    top:0;
+    left:0;
+}
